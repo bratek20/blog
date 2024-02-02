@@ -1,7 +1,7 @@
 ---
 title: "Hello world!"
 date: 2024-02-02
-layout: default
+layout: post
 comments: true
 ---
 
